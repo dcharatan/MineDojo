@@ -1,3 +1,19 @@
+# TL;DR:
+
+This is a fork of MineDojo where the installation works as of 2026-02-13.
+
+# INSTALLATION INSTRUCTIONS
+
+```bash
+conda create -n minedojo python=3.11
+conda activate minedojo
+conda install conda-forge::openjdk=8
+pip install setuptools==65.5.0 pip==21 wheel==0.38.0
+pip install git+https://github.com/dcharatan/MineDojo
+```
+
+---
+
 <div align="center">
 <img src="https://minedojo.org/images/logo.png" width="400px">
 
