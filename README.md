@@ -2,6 +2,8 @@
 
 This is a fork of MineDojo where the installation works as of 2026-02-13.
 
+The render distance has been increased from 4 chunks to 12.
+
 # INSTALLATION INSTRUCTIONS
 
 ```bash
