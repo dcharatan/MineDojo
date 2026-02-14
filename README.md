@@ -4,7 +4,7 @@ This is a fork of MineDojo where the installation works as of 2026-02-13.
 
 Rendering changes:
 
-- Render distance increased from 4 to 12
+- Render distance increased from 4 to 16
 - Fancy rendering turned on
 - Cloud rendering enabled
 
