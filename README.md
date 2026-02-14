@@ -2,7 +2,11 @@
 
 This is a fork of MineDojo where the installation works as of 2026-02-13.
 
-The render distance has been increased from 4 chunks to 12.
+Rendering changes:
+
+- Render distance increased from 4 to 12
+- Fancy rendering turned on
+- Cloud rendering enabled
 
 # INSTALLATION INSTRUCTIONS
 

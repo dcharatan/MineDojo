@@ -12,9 +12,9 @@ anaglyph3d:false
 maxFps:260
 fboEnable:true
 difficulty:2
-fancyGraphics:false
+fancyGraphics:true
 ao:0
-renderClouds:false
+renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
